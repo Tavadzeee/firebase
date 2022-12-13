@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830661972092",
+    "project_id": "saregistracio-5a364",
+    "storage_bucket": "saregistracio-5a364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830661972092:android:18493f29521a2c0a9f39f9",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830661972092-jqpfbn88amad2098hghlrd7kpo8gs1qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClCXLsidgsCLipDBJ-zWznZg7Tb6nGVL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830661972092-jqpfbn88amad2098hghlrd7kpo8gs1qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
